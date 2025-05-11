@@ -1,0 +1,63 @@
+FUNDAMENTOS DE PROGRAMACIÓN
+Trabajo Práctico Final Integrador – Fase 1
+
+
+Alumno: Ignacio Quiroga.
+Profesora: Tanny Torres Molina.
+Comisión: 19.
+Tema: Sistema para Administrar una inmobiliaria (alquiler, venta)
+
+
+1. Introducción:
+
+Nombre del Proyecto: Inmobiliaria integral Javac
+
+Descripción del Proyecto:
+Este proyecto se centra en la creación de una plataforma integral de gestión para inmobiliarias, diseñada para administrar de manera eficiente y efectiva tanto propiedades en alquiler como en venta. Esta plataforma ofrecerá una amplia gama de funcionalidades destinadas a simplificar la gestión de propiedades, clientes y contratos, proporcionando una solución integral y centralizada para las operaciones diarias de la inmobiliaria.
+Su característica principal sería registrar y gestionar información detallada sobre cada propiedad disponible, incluyendo datos relevantes como ubicación, características, estado y precios.
+
+
+
+
+2. Descripción del proyecto (¿Qué es un sistema para administrar una inmobiliaria?):
+Una inmobiliaria es una empresa que facilita la compra, venta o alquiler de bienes inmuebles como casas, departamentos, terrenos y locales comerciales. Actúa como intermediaria entre propietarios y potenciales compradores o arrendatarios, ofreciendo servicios de gestión, asesoramiento y promoción de propiedades. Las inmobiliarias emplean agentes inmobiliarios que realizan transacciones en nombre de la empresa y sus clientes. Además de comercializar propiedades, ofrecen servicios adicionales como tasaciones, asesoramiento legal y financiero, gestión de alquileres y administración de propiedades.
+
+Una inmobiliaria se encarga de:
+Gestión de propiedades: Registrar y gestionar información detallada sobre las propiedades disponibles para alquiler y venta.
+Gestión de clientes: Manejar la información de clientes interesados en alquilar o comprar propiedades.
+Administración de contratos: Crear, modificar y dar seguimiento a los contratos de alquiler y venta.
+Gestión de visitas y citas: Organizar y registrar las visitas a las propiedades por parte de los clientes interesados.
+Informes y análisis: Generar informes y análisis sobre el desempeño del negocio, incluyendo métricas de ventas y tendencias del mercado.
+
+
+
+
+3. Objetivos:
+
+	Desarrollar un sistema de gestión intuitivo y fácil de usar para la inmobiliaria.
+	Permitir la gestión eficiente de propiedades en alquiler y venta, incluyendo la captura de información detallada y el seguimiento de estados y disponibilidad.
+	Optimizar los procesos internos de la inmobiliaria, reduciendo el tiempo y los recursos dedicados a tareas administrativas.
+	Mejorar la comunicación y la colaboración entre los agentes inmobiliarios y el personal de la empresa.
+
+
+
+
+4. Tipos de datos:
+
+Datos de Propiedades:
+•	Nombre: String
+•	Dirección: String
+•	Características: Lista o diccionario
+•	Precio: Float
+Datos de Clientes:
+•	Nombre: String
+•	Apellido: String
+•	Contacto: String
+•	Identificación: Integer
+Datos de Contratos:
+•	Identificación del Contrato: String
+•	Monto (alquiler o venta): Float
+•	Fecha de Inicio (día, mes, año): Tres datos de tipo numérico
+Fechas:
+•	Fecha de Registro de Propiedad (día, mes, año): Tres datos de tipo numérico
+•	Fecha de Firma de Contrato (día, mes, año): Tres datos de tipo numérico
