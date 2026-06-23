@@ -1,0 +1,42 @@
+E:\programacion con objetos facu\Proyecto\Proyecto-Facultad\bin\Debug\net8.0\Proyecto-Facultad.exe
+E:\programacion con objetos facu\Proyecto\Proyecto-Facultad\bin\Debug\net8.0\Proyecto-Facultad.deps.json
+E:\programacion con objetos facu\Proyecto\Proyecto-Facultad\bin\Debug\net8.0\Proyecto-Facultad.runtimeconfig.json
+E:\programacion con objetos facu\Proyecto\Proyecto-Facultad\bin\Debug\net8.0\Proyecto-Facultad.dll
+E:\programacion con objetos facu\Proyecto\Proyecto-Facultad\bin\Debug\net8.0\Proyecto-Facultad.pdb
+E:\programacion con objetos facu\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacion con objetos facu\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.AssemblyInfoInputs.cache
+E:\programacion con objetos facu\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.AssemblyInfo.cs
+E:\programacion con objetos facu\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.csproj.CoreCompileInputs.cache
+E:\programacion con objetos facu\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.dll
+E:\programacion con objetos facu\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\refint\Proyecto-Facultad.dll
+E:\programacion con objetos facu\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.pdb
+E:\programacion con objetos facu\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.genruntimeconfig.cache
+E:\programacion con objetos facu\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\ref\Proyecto-Facultad.dll
+D:\Facultad\Programacion con Objetos\TP\ProyectoActualizado30-10\Proyecto\Proyecto-Facultad\bin\Debug\net8.0\Proyecto-Facultad.exe
+D:\Facultad\Programacion con Objetos\TP\ProyectoActualizado30-10\Proyecto\Proyecto-Facultad\bin\Debug\net8.0\Proyecto-Facultad.deps.json
+D:\Facultad\Programacion con Objetos\TP\ProyectoActualizado30-10\Proyecto\Proyecto-Facultad\bin\Debug\net8.0\Proyecto-Facultad.runtimeconfig.json
+D:\Facultad\Programacion con Objetos\TP\ProyectoActualizado30-10\Proyecto\Proyecto-Facultad\bin\Debug\net8.0\Proyecto-Facultad.dll
+D:\Facultad\Programacion con Objetos\TP\ProyectoActualizado30-10\Proyecto\Proyecto-Facultad\bin\Debug\net8.0\Proyecto-Facultad.pdb
+D:\Facultad\Programacion con Objetos\TP\ProyectoActualizado30-10\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\Programacion con Objetos\TP\ProyectoActualizado30-10\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.AssemblyInfoInputs.cache
+D:\Facultad\Programacion con Objetos\TP\ProyectoActualizado30-10\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.AssemblyInfo.cs
+D:\Facultad\Programacion con Objetos\TP\ProyectoActualizado30-10\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.csproj.CoreCompileInputs.cache
+D:\Facultad\Programacion con Objetos\TP\ProyectoActualizado30-10\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.dll
+D:\Facultad\Programacion con Objetos\TP\ProyectoActualizado30-10\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\refint\Proyecto-Facultad.dll
+D:\Facultad\Programacion con Objetos\TP\ProyectoActualizado30-10\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.pdb
+D:\Facultad\Programacion con Objetos\TP\ProyectoActualizado30-10\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.genruntimeconfig.cache
+D:\Facultad\Programacion con Objetos\TP\ProyectoActualizado30-10\Proyecto\Proyecto-Facultad\obj\Debug\net8.0\ref\Proyecto-Facultad.dll
+E:\programacion con objetos facu\Proyecto\Proyecto otra version\Proyecto-Facultad\bin\Debug\net8.0\Proyecto-Facultad.exe
+E:\programacion con objetos facu\Proyecto\Proyecto otra version\Proyecto-Facultad\bin\Debug\net8.0\Proyecto-Facultad.deps.json
+E:\programacion con objetos facu\Proyecto\Proyecto otra version\Proyecto-Facultad\bin\Debug\net8.0\Proyecto-Facultad.runtimeconfig.json
+E:\programacion con objetos facu\Proyecto\Proyecto otra version\Proyecto-Facultad\bin\Debug\net8.0\Proyecto-Facultad.dll
+E:\programacion con objetos facu\Proyecto\Proyecto otra version\Proyecto-Facultad\bin\Debug\net8.0\Proyecto-Facultad.pdb
+E:\programacion con objetos facu\Proyecto\Proyecto otra version\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacion con objetos facu\Proyecto\Proyecto otra version\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.AssemblyInfoInputs.cache
+E:\programacion con objetos facu\Proyecto\Proyecto otra version\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.AssemblyInfo.cs
+E:\programacion con objetos facu\Proyecto\Proyecto otra version\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.csproj.CoreCompileInputs.cache
+E:\programacion con objetos facu\Proyecto\Proyecto otra version\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.dll
+E:\programacion con objetos facu\Proyecto\Proyecto otra version\Proyecto-Facultad\obj\Debug\net8.0\refint\Proyecto-Facultad.dll
+E:\programacion con objetos facu\Proyecto\Proyecto otra version\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.pdb
+E:\programacion con objetos facu\Proyecto\Proyecto otra version\Proyecto-Facultad\obj\Debug\net8.0\Proyecto-Facultad.genruntimeconfig.cache
+E:\programacion con objetos facu\Proyecto\Proyecto otra version\Proyecto-Facultad\obj\Debug\net8.0\ref\Proyecto-Facultad.dll

@@ -1,0 +1,20 @@
+Proyecto: Sistema de Gestión - Compañía de Telefonía Móvil
+Lenguaje: C# (.NET)
+Paradigma: Programación Orientada a Objetos (POO)
+
+DESCRIPCIÓN DEL PROYECTO:
+Aplicación de consola desarrollada para administrar y simular las operaciones de una empresa de telefonía móvil. El sistema permite gestionar una cartera de clientes, donde cada cliente puede poseer múltiples líneas telefónicas. El objetivo principal del proyecto fue aplicar de manera estricta los conceptos de la Programación Orientada a Objetos, encapsulamiento y el manejo robusto de errores.
+
+FUNCIONALIDADES PRINCIPALES:
+- Alta y baja de clientes y líneas telefónicas.
+- Simulación de consumo: realización de llamadas y envío de mensajes, descontando el saldo correspondiente según la operación.
+- Suspensión y reactivación lógica de líneas.
+- Transferencia de saldo entre líneas pertenecientes a un mismo titular.
+- Consultas y listados generales del estado de la empresa.
+
+TECNOLOGÍAS Y CONCEPTOS APLICADOS:
+- C# puro: Lógica estructurada íntegramente en C#.
+- Modelado de Clases: Arquitectura dividida en entidades lógicas (Empresa, Cliente, Linea), respetando la cardinalidad y asociación mostrada en el diagrama de clases (ClassDiagram1.cd).
+- Colecciones Genéricas: Uso de List<T> para la gestión en memoria de los clientes y sus respectivas líneas.
+- Excepciones Personalizadas: Creación de clases que heredan de "Exception" (SaldoInsuficienteException, ClienteSinLineasException, EmpresaSinClientesException) para delegar el control de errores operativos fuera de la lógica principal.
+- Interfaz de Consola: Menú iterativo (Main.cs) gestionado con estructuras switch-case y bloques try-catch para evitar cierres inesperados por validaciones de negocio.
